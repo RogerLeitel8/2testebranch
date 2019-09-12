@@ -5,3 +5,5 @@ botão
 lapis
 tenis
 patinete
+patins
+bike
