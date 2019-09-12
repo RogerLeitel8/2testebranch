@@ -4,3 +4,4 @@ sapato
 tenis
 patinete
 patins
+bike
