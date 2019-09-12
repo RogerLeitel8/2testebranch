@@ -1,5 +1,7 @@
 cadeira
 bola
 sapato
+botão
+lapis
 tenis
 patinete
