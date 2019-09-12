@@ -6,3 +6,5 @@ lapis
 tenis
 patinete
 lan house
+patins
+bike
