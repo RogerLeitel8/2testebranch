@@ -3,3 +3,5 @@ bola
 sapato
 botão
 lapis
+tenis
+patinete
